@@ -17,7 +17,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: 주니어 개발자 채용 공고
+  title: Junior Recruit Scheduler
   tagline: 정현재 강호형 문태명 최성규 최현진 
   date_format: "%b %-d, %Y"
   style: black
