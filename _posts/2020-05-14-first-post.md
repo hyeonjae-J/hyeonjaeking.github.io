@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "프로젝트 소개"
-date:   2019-05-23 21:03:36 +0530
+
 ---
  Github의 오픈소스프로젝트 ‘junior-recruit-scheduler’ (https://github.com/jojoldu/junior-recruit-scheduler)  
 
