@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "팀원 별 역할"
+date:   2019-05-23 21:03:36 +0530
+---
+팀원의 역할은 총괄, PR관리, 블로그 관리로 나누었습니다.
+
+팀원의 역할은 총 3파트로 나누었습니다. 첫째로 전체적으로 팀을 관리하며 도움이 필요할 때 각 파트에 도움을 주는 총괄 역할(정현재), 둘째로 팀 정적페이지, wiki, readme를 관리하는 블로그 관리 역할(강호형, 최성규), 마지막으로 기존 정보 수정, 신규 정보 등록, Issue 관리 등 프로젝트와 관련한 Pull Request를 보내는 PR 관리 역할(문태명, 최현진) 입니다.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
